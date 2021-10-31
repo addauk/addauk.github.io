@@ -13,7 +13,7 @@ const _ = {
                 return number;
             }
         */
-       //return Math.min(Math.max(number,lower),upper);
+       return Math.min(Math.max(number,lower),upper);
     },
 
     inRange(number,start,end){
