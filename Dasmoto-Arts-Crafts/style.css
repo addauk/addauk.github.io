@@ -24,7 +24,7 @@ h2,
 p {
   font-family: Helvetica;
 }
-a {
+.price {
   font-weight: bold;
   color: blue;
 }
