@@ -1,0 +1,91 @@
+body {
+  margin: 0 10%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+section {
+  border: 2px grey solid;
+  margin: 10px auto;
+  padding: 10px;
+  width: 100%;
+  display: block;
+}
+
+.swatch {
+  display: inline-block;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px;
+  min-height: 100px;
+  width: 30%;
+}
+
+.fuschia {
+  background-color: #f51663;
+}
+
+.dustyrose {
+  background-color: #deb3ad;
+}
+
+.amber {
+  background-color: #fac218;
+}
+
+.orange {
+  background-color: #f86f15;
+}
+
+.fontblock {
+  width: 48%;
+  display: inline-block;
+}
+
+.title {
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.regular {
+  font-weight: normal;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.firstFont {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.secondFont {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.thirdFont {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.styleblock h2 {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.styleblock h1 {
+  font-size: 26px;
+  font-weight: 700;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.styleblock h2 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
