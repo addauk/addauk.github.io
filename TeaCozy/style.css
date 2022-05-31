@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  font-size: 22px;
+  background-color: black;
+  color: seashell;
+  opacity: 0.9;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.header #logo {
+}
+
+nav {
+}
+
+nav li {
+  list-style: none;
+}
+a {
+  color: seashell;
+  opacity: 0.9;
+}
